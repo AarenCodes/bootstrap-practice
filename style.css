@@ -1,0 +1,9 @@
+.col {
+	background-color: gray;
+	border: .5px solid black;
+	padding-top: 1.5px;
+}
+.btn-primary {
+	margin: 20px;
+	text-align: center;
+}
